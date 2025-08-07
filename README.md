@@ -41,5 +41,5 @@ Estudo sobre algoritmos, estrutura de dados, programação dinâmica etc...
 
 <h2></h2>
 <a href="https://github.com/anuraghazra/github-readme-stats">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=NicolasChirazawa&layout=compact&hide_border=false&theme=prussian"/>
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=NicolasChirazawa&layout=compact&hide_border=false&theme=prussian&locale=pt-br"/>
 </a>
