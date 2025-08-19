@@ -28,16 +28,16 @@ Após um tempo natural desenvolvendo lógica, comecei a fazer alguns projetos, e
 <h2>Repositórios</h2>
 
 - 📗 <a href="https://github.com/NicolasChirazawa/loja-compras"><i>loja-compras</i></a> <br>
-🌐 Backend de um E-commerce desenvolvido em Node.JS.
+  Backend de um E-commerce desenvolvido em Node.JS.
 
 - 📘 <a href="https://github.com/NicolasChirazawa/automatizando-pesquisa-por-trechos"><i>automatizando-pesquisa-por-trechos</i></a> <br>
-📜 Uma ferramenta de match de texto entre arquivo(s).
+  Uma ferramenta de match de texto entre arquivo(s).
 
 - 📙 <a href="https://github.com/NicolasChirazawa/encurtador-url"><i>encurtador-url</i></a> <br>
-📏 Web app encurtador e redirecionador de URLs (genéricas ou personalizadas).
+  Web app encurtador e redirecionador de URLs (genéricas ou personalizadas).
 
 - 📒 <a href="https://github.com/NicolasChirazawa/desafio-sites"><i>desafio-sites</i></a> <br>
-🔎 Repositório onde registro estudos de algoritmo e soluções de problemas do Codeforces.
+  Repositório onde registro estudos de algoritmo e soluções de problemas do Codeforces.
 
 <h2></h2>
 <a href="https://github.com/anuraghazra/github-readme-stats">
